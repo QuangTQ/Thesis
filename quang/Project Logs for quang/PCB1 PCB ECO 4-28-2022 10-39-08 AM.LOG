@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RST Pin=MRC1-7
+Change Net Name : Old Net Name=RST New Net Name=3v3
+Added Pin To Net: NetName=RST Pin=MRC1-7
+Added Net: Name=RST
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 BT
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAP gom
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap Pol
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap Pol
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N4007
